@@ -1,0 +1,28 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Test
+message: >-
+  message: "If you use this dataset, please cite it using
+  the following metadata." 
+type: dataset
+authors:
+
+  - given-names: Erfan
+    family-names: Jahangir
+    email: erfan.jahangir@univ-grenoble-alpes.fr
+    affiliation: 'Univ. Grenoble Alpes, CNRS, INRAE, IRD, Grenoble INP, IGE, Grenoble, France.'
+
+identifiers:
+  - type: url
+    value: 'https://github.com/erfanjahangir/Git-tuto/new/main'
+  - type: doi
+    value: 10.5281/zenodo.17816916
+
+References:
+  - identifiers:
+    1.	Brazeau, M. L., Poulain, A. J., Paterson, A. M., Keller, W. (Bill), Sanei, H., & Blais, J. M. (2013). Recent changes in mercury deposition and primary productivity inferred from sediments of lakes from the Hudson Bay Lowlands, Ontario, Canada. Environmental Pollution, 173, 52–60. https://doi.org/10.1016/j.envpol.2012.09.017
+    2.	Burke, S. M., Zimmerman, C. E., Branfireun, B. A., Koch, J. C., & Swanson, H. K. (2018). Patterns and controls of mercury accumulation in sediments from three thermokarst lakes on the Arctic Coastal Plain of Alaska. Aquatic Sciences, 80(1), 1–1. Environment Complete. https://doi.org/10.1007/s00027-017-0553-0
+    3.	Korosi, J. B., McDonald, J., Coleman, K. A., Palmer, M. J., Smol, J. P., Simpson, M. J., & Blais, J. M. (2015). Long-term changes in organic matter and mercury transport to lakes in the sporadic discontinuous permafrost zone related to peat subsidence. Limnology and Oceanography, 60(5), 1550–1561. https://doi.org/10.1002/lno.10116
