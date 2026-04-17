@@ -1,0 +1,3 @@
+[submodule "dossier"]
+	path = dossier
+	url = https://github.com/IGE-mercury/MFallDa.git
