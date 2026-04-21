@@ -1,3 +1,6 @@
 [submodule "dossier"]
 	path = dossier
 	url = https://github.com/IGE-mercury/MFallDa.git
+[submodule "TestSubmodule"]
+	path = TestSubmodule
+	url = https://github.com/erfanjahangir/TestSubmodule.git
